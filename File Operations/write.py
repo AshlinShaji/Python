@@ -1,0 +1,7 @@
+f=open('write_data','w')
+f.write('Luminar\n')
+f.write('Tecnolab\n')
+f.write('ML\n')
+f.write('DL\n')
+f.write('NLP\n')
+f.write('Python\n')
